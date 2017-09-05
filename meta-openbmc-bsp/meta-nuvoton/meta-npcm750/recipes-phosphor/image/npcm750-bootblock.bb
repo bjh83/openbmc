@@ -5,7 +5,7 @@
 LICENSE = "CLOSED"
 LIC_FILES_CHKSUM = ""
 
-SRC_URI = "https://github.com/avifishman/npcm7xx-bootblock/releases/download/10.06.08/Poleg_bootblock.bin"
+SRC_URI = "https://github.com/Nuvoton-Israel/npcm7xx-bootblock/releases/download/10.06.08/Poleg_bootblock.bin"
 SRC_URI[md5sum] = "23c98d36a3d03b96e9c98986b59fc432"
 
 SRCREV = "${AUTOREV}"

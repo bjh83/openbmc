@@ -1,9 +1,7 @@
 LICENSE = "Apache-2.0"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=e3fc50a88d0a364313df4b21ef20c29e"
 
-# TODO: Set URL to git://github.com/Nuvoton-Israel/npcm7xx-flashtool.git once
-# Nuvoton has accepted the patches.
-SRC_URI = "git://github.com/bjh83/npcm7xx-flashtool.git"
+SRC_URI = "git://github.com/Nuvoton-Israel/npcm7xx-flashtool.git"
 SRC_URI[md5sum] = "61ea43d858eca22d0e2d265904ec5eef"
 
 SRCREV = "${AUTOREV}"
